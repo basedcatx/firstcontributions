@@ -1,0 +1,9 @@
+github: basedcatx
+name: Faith
+# The lines below are optional. Replace the example values or delete the lines.
+bio: The best dev you'd come across
+location: Buea, Cameroon
+website: https://osscameroon.github.io
+contributions:
+  # Later, list issues or pull requests you worked on, one per line, like this:
+  # - https://github.com/osscameroon/js-generator/pull/1
